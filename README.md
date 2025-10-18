@@ -3,7 +3,7 @@
 This directory contains the dotfiles for my MacOS system.
 
 > [!IMPORTANT]
-> \*\*IMPORTANT:\*\* These are primarily meant for inspiration/reference. I wouldn't just blindly use them. Proceed at your own risk!
+> These are primarily meant for inspiration/reference. I wouldn't just blindly use them. Proceed at your own risk!
 
 <!-- ## Requirements -->
 <!---->
