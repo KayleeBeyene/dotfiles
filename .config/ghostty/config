@@ -1,0 +1,38 @@
+shell-integration = zsh 
+
+theme = Catppuccin Frappe
+
+custom-shader = shaders/bloom025.glsl
+cursor-style = block
+custom-shader = shaders/cursor_blaze_no_trail.glsl
+custom-shader = shaders/cursor_smear.glsl
+font-family = "JetBrainsMono Nerd Font"
+font-size = 15
+macos-titlebar-style = hidden
+
+######## Natural Text Editing ##########
+
+# Natural Text Editing
+# Move one word to the left
+keybind = alt+left=esc:b
+
+# Move one word to the right
+keybind = alt+right=esc:f
+
+# Delete a single word to the left
+keybind = alt+backspace=text:\x17
+
+# Delete an entire line
+keybind = cmd+backspace=text:\x15
+
+#########################################
+
+keybind = cmd+s=toggle_quick_terminal
+keybind = super+i=inspector:toggle
+keybind = super+r=reload_config
+
+
+background-opacity = 0.78
+background-blur = true
+unfocused-split-opacity = 0.7
+macos-icon = official
