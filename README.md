@@ -38,14 +38,17 @@ After hearing all the hype on the internet, I've started using [Ghostty](https:/
 
 📹 Youtube Guide: [How To Make Your Mac Termial Look Cute!!!😺](#)
 
-- [fzf](https://github.com/junegunn/fzf.git)
-- [fd](https://github.com/sharkdp/fd)
-- [fzf-git](https://github.com/junegunn/fzf-git.sh)
-- [bat](https://github.com/sharkdp/bat)
-- [delta](https://github.com/dandavison/delta)
-- [eza](https://github.com/eza-community/eza.git)
-- [tldr](https://github.com/tldr-pages/tldr)
-- [thefuck](https://github.com/nvbn/thefuck)
+<!-- - [fzf](https://github.com/junegunn/fzf.git) -->
+<!-- - [fd](https://github.com/sharkdp/fd) -->
+<!-- - [fzf-git](https://github.com/junegunn/fzf-git.sh) -->
+<!-- - [bat](https://github.com/sharkdp/bat) -->
+<!-- - [delta](https://github.com/dandavison/delta) -->
+<!-- - [eza](https://github.com/eza-community/eza.git) -->
+<!-- - [tldr](https://github.com/tldr-pages/tldr) -->
+<!-- - [thefuck](https://github.com/nvbn/thefuck) -->
+<!-- yazi -->
+<!-- btop -->
+<!-- fastfetch -->
 
 ### Relevant Files
 
@@ -56,7 +59,7 @@ After hearing all the hype on the internet, I've started using [Ghostty](https:/
 
 [Tmux setup](.config/tmux/)
 
-📹 Youtube Guide: [How to Make Using Your Terminal Efficient (Tmux tutorial)](#)
+📹 Youtube Guide: [How to Make Using Your Terminal More Efficient (Tmux tutorial)](#)
 
 ### Relevant Files
 
