@@ -56,6 +56,7 @@ After hearing all the hype on the internet, I've started using [Ghostty](https:/
 
 - [.zshrc](.zshrc) - Zsh Shell Configuration
 - [Ghostty config](.config/ghostty/) - Ghostty setup
+- [starship.toml](.config/starship.toml) - Command prompt customisation using [starship](https://starship.rs/)
 
 # Tmux Setup
 
