@@ -1,0 +1,6 @@
+# API Keys and Sensitive Environment Variables
+
+# OpenWeather API Key (for tmux clima module)
+# Get a new key from: https://openweathermap.org/api
+export OPEN_WEATHER_API_KEY="df437e4f1460118c8b1e5bd48f602e7c"
+
